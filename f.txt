@@ -1,4 +1,3 @@
-
 lambda: 0.01
 T: 20
 Throughput: 308.701 Bps
